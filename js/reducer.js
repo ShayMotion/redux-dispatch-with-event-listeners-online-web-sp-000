@@ -1,5 +1,5 @@
 // add code snippets from README
-let state = {count: 0};
+// let state = {count: 0};
  
 function reducer(state, action){
   switch (action.type) {
